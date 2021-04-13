@@ -1,2 +1,2 @@
 # homebrew-mojobrew
-brew tap mojothejojo/mojobrew/java8echo
+brew install mojothejojo/mojobrew/java8 #tested to work correctly
